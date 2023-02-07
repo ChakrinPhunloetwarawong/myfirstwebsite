@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+h1{
+    size: 20px;
+}
+img{
+    background-color: blue;
+
+}
+.mushroom{
+background-color: whitesmoke;
+}
+.red-apple{
+    background-color: blueviolet;
+}
+.circular{
+    border-radius: 100%;
+}
